@@ -62,7 +62,7 @@ We aimed to create a **fully dynamic raytracer** that could create phenomenal-lo
 
 We feature a **Camera Mode** and an **Object Mode**, allowing you to position your camera and objects however you like. When in camera mode, you can modify the properties of lights in the scene. When in object mode, you can modify the properties of the selected object. Refer to the manual for controls.
 
-Along with full customizability of your scene from within the program, there are options to make the program run faster, such as toggling **linear interpolation**. We implemented various optimizations like **multithreading** and **SIMD** to make the program smoothly.
+Along with full customizability of your scene from within the program, there are options to make the program run faster, such as toggling **linear interpolation**. We implemented various optimizations like **multithreading** and **SIMD** to make the program smoothly. 
 
 ---
 
