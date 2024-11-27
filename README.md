@@ -72,7 +72,7 @@ This project is massive, and we want to thank everyone who helped us along the w
 - [Hasan Sarhan's miniRT](https://github.com/h-sarhan-miniRT), an incredibly well-made miniRT by our senior which inspired and motivated us to push the boundaries of this project.
 - [The Raytracer Challenge](http://raytracerchallenge.com). It's really all you need in life.
 - Emran again, because this README basically rips off the structure of his. But honestly, his is better.
-- My incredible partner [Alex](https://github.com/pixelabra). I couldn't have done with anyone else.
+- My incredible partner [Alex](https://github.com/pixelabra). I couldn't have done it with anyone else.
 
 ---
 
