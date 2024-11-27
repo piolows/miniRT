@@ -8,8 +8,8 @@ Created by [Piolo Polintan](https://github.com/piolows) and [Alexandru Godeanu](
 
 ## How to use
 Depending on your system, you will need the following prerequisites to run the program:
-- **Linux**: X11, OpenGL (Linux)
-- **Mac**: OpenGL, Appkit (MacOS)
+- **Linux**: X11, OpenGL
+- **Mac**: OpenGL, Appkit
 
 For Windows, you will need to run within a container (such as WSL) or virtual machine.
 
